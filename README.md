@@ -62,13 +62,17 @@
 
 # 🚀 My Developer Journey
 
-```text
 Python                    ████████████████░░░░
+
 NumPy                     ██████████░░░░░░░░░░
+
 Pandas                    ████████░░░░░░░░░░░░
+
 Data Analysis             ██████░░░░░░░░░░░░░░
+
 Machine Learning          ████░░░░░░░░░░░░░░░░
-Artificial Intelligence   ███░░░░░░░░░░░░░░░░░,,,
+
+Artificial Intelligence   ███░░░░░░░░░░░░░░░░░
 
 ---
 
@@ -89,15 +93,15 @@ Artificial Intelligence   ███░░░░░░░░░░░░░░░
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANISH-AIML001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MANISH-AIML001&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH-AIML001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH-AIML001&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-AIML001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-AIML001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -105,7 +109,7 @@ Artificial Intelligence   ███░░░░░░░░░░░░░░░
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MANISH-AIML001&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=MANISH-AIML001&theme=tokyonight&no-frame=true&no-bg=true" />
 </p>
 
 ---
@@ -135,13 +139,17 @@ Coming soon as I begin building Machine Learning models and AI applications.
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manish-kumar-140b243b0">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MANISH-AIML001">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+
+<a href="https://www.linkedin.com/in/manish-kumar-140b243b0">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/MANISH-AIML001">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
 ---
