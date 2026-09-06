@@ -67,7 +67,7 @@
 
 <pre>
 ┌──────────────────────────────────────────────┐
-│  MANISH-AIML001@DEVELOPER:~$ skill-status   │
+│  MANISH-AIML001@DEVELOPER: skill-status      │
 └──────────────────────────────────────────────┘
 
 [████████████████░░░░] Python                    80%
@@ -90,7 +90,7 @@ MISSION: BECOME AN AI/ML DEVELOPER
 </p>
 
 <pre>
-$ current_mission
+👨‍💻 current_mission
 
 > Building practical Python projects
 > Learning NumPy and Pandas
