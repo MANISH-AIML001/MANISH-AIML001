@@ -70,12 +70,12 @@
 │  MANISH-AIML001@DEVELOPER: skill-status      │
 └──────────────────────────────────────────────┘
 
-[████████████████░░░░] Python                    80%
-[██████████░░░░░░░░░░] NumPy                     50%
-[████████░░░░░░░░░░░░] Pandas                    40%
-[██████░░░░░░░░░░░░░░] Data Analysis             30%
-[████░░░░░░░░░░░░░░░░] Machine Learning          20%
-[███░░░░░░░░░░░░░░░░░] Artificial Intelligence   15%
+████████████████░░░░ Python                    80%
+██████████░░░░░░░░░░ NumPy                     50%
+████████░░░░░░░░░░░░ Pandas                    40%
+██████░░░░░░░░░░░░░░ Data Analysis             30%
+████░░░░░░░░░░░░░░░░ Machine Learning          20%
+███░░░░░░░░░░░░░░░░░ Artificial Intelligence   15%
 
 SYSTEM STATUS: LEARNING...
 MISSION: BECOME AN AI/ML DEVELOPER
