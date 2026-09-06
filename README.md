@@ -110,7 +110,7 @@ Artificial Intelligence   ███░░░░░░░░░░░░░░░
 # 🏆 GitHub Trophies
 
 <p align="center">
-< src="https://github-profile-trophy.vercel.app/?username=MANISH-AIML001&theme=tokyonight&no-frame=true&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=MANISH-AIML001&theme=tokyonight&no-frame=true&no-bg=true" />
 </p>
 
 ---
