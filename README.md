@@ -80,13 +80,14 @@ Artificial Intelligence   ███░░░░░░░░░░░░░░░
 
 🔹 Building practical Python projects
 
-🔹 Improving my skills in NumPy and Pandas
+🔹 Improving my skills in NumPy & Pandas             
 
 🔹 Learning Data Analysis
 
 🔹 Exploring Machine Learning
 
-🔹 Working towards building real-world AI applications
+🔹 Working towards building real-world AI
+   applications
 
 ---
 
@@ -109,7 +110,7 @@ Artificial Intelligence   ███░░░░░░░░░░░░░░░
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MANISH-AIML001&theme=tokyonight&no-frame=true&no-bg=true" />
+< src="https://github-profile-trophy.vercel.app/?username=MANISH-AIML001&theme=tokyonight&no-frame=true&no-bg=true" />
 </p>
 
 ---
@@ -145,7 +146,7 @@ Coming soon as I begin building Machine Learning models and AI applications.
 </a>
 
 &nbsp;&nbsp;&nbsp;
-
+<p align="center">
 <a href="https://github.com/MANISH-AIML001">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
