@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-🚀 Learning Today • Building Tomorrow • Creating Intelligent Solutions
+🚀 Learning Today->> Building Tomorrow->> Creating Intelligent Solutions
 </h3>
 
 <p align="center">
