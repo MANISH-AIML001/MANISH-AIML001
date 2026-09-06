@@ -59,63 +59,65 @@
 </p>
 
 ---
+# 💻 My Developer Journey
 
-# 🚀 My Developer Journey
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=850&lines=%3E+Initializing+Developer+Journey...;%3E+Loading+Python+Skills...;%3E+Exploring+Artificial+Intelligence...;%3E+Building+Real-World+Projects...;%3E+Status%3A+Learning+%2B+Building+%2B+Growing" />
+</p>
 
-Python                    ████████████████░░░░
+<pre>
+┌──────────────────────────────────────────────┐
+│  MANISH-AIML001@DEVELOPER:~$ skill-status   │
+└──────────────────────────────────────────────┘
 
-NumPy                     ██████████░░░░░░░░░░
+[████████████████░░░░] Python                    80%
+[██████████░░░░░░░░░░] NumPy                     50%
+[████████░░░░░░░░░░░░] Pandas                    40%
+[██████░░░░░░░░░░░░░░] Data Analysis             30%
+[████░░░░░░░░░░░░░░░░] Machine Learning          20%
+[███░░░░░░░░░░░░░░░░░] Artificial Intelligence   15%
 
-Pandas                    ████████░░░░░░░░░░░░
-
-Data Analysis             ██████░░░░░░░░░░░░░░
-
-Machine Learning          ████░░░░░░░░░░░░░░░░
-
-Artificial Intelligence   ███░░░░░░░░░░░░░░░░░
+SYSTEM STATUS: LEARNING...
+MISSION: BECOME AN AI/ML DEVELOPER
+</pre>
 
 ---
 
-# 💻 What I'm Working On
+# ⚡ Current Mission
 
-🔹 Building practical Python projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+%5D+Building+Python+Projects...;%5B+SYSTEM+%5D+Learning+NumPy+%26+Pandas...;%5B+SYSTEM+%5D+Exploring+Machine+Learning...;%5B+SYSTEM+%5D+Preparing+for+AI+Development..." />
+</p>
 
-🔹 Improving my skills in NumPy & Pandas             
+<pre>
+$ current_mission
 
-🔹 Learning Data Analysis
+> Building practical Python projects
+> Learning NumPy and Pandas
+> Exploring Data Analysis
+> Moving towards Machine Learning
+> Building future AI applications
 
-🔹 Exploring Machine Learning
-
-🔹 Working towards building real-world AI
-   applications
+STATUS: ACTIVE 🚀
+</pre>
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MANISH-AIML001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MANISH-AIML001&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH-AIML001&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH-AIML001&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-AIML001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MANISH-AIML001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MANISH-AIML001&theme=tokyonight&no-frame=true&no-bg=true" />
-</p>
-
----
-
-# 📌 Featured Projects
 
 ## 🐍 Python Projects
 
