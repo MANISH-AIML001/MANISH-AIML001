@@ -106,11 +106,11 @@ STATUS: ACTIVE 🚀
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MANISH-AIML001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <🏆👑 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MANISH-AIML001&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH-AIML001&theme=tokyonight&hide_border=true" />
+  <🥇🥈🥉 src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH-AIML001&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
