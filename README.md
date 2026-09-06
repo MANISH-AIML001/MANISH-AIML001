@@ -68,7 +68,7 @@ NumPy                     ██████████░░░░░░░░
 Pandas                    ████████░░░░░░░░░░░░
 Data Analysis             ██████░░░░░░░░░░░░░░
 Machine Learning          ████░░░░░░░░░░░░░░░░
-Artificial Intelligence   ███░░░░░░░░░░░░░░░░░'''
+Artificial Intelligence   ███░░░░░░░░░░░░░░░░░,,,
 
 ---
 
